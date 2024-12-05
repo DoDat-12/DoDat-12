@@ -2,7 +2,7 @@ Hi! My name is DoDat
 =============================================================================================================================
 
 * 🌍  I'm based in HaNoi
-* ✉️  You can contact me at [dubstep.0509dtd@gmail.com](mailto:dubstep.0509dtd@gmail.com)
+* ✉️  You can contact me at [dubstep.0509dtd@gmail.com](mailto:dubstep.0509dtd@gmail.com)/[tadod.de@gmail.com](mailto:tadod.de@gmail.com)
 * 🧠  I'm learning Computer Engineering at HUST
 
 ### Skills
